@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  --------> This is the basic layout, you can use the "!" in VS Code or Cursor to get this
   <title>Document</title>
 </head>
 <body>
